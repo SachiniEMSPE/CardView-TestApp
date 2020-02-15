@@ -1,5 +1,5 @@
 # Android Studio CardView - TestApp
-This contains an working  simple test app which was created to familiarize with android studio CardView following a youtube reference. 
+This contains a working  simple test app which was created to familiarize with android studio CardView following a youtube reference. 
 
 **Reference** - https://youtu.be/4t4NIApkm7M
 
